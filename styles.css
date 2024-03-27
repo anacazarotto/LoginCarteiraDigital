@@ -1,0 +1,56 @@
+header {
+    padding-top: 13%;
+}
+
+body {
+    background-image: url('./images/Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.ubuntu {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        font-size: 50px;
+}
+
+.ubuntu_secundario {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    font-size: 30px;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+    margin-right: 5px;
+}
+
+.montserrat {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding-top: 2%;
+}
+
+.botao-enviar {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    color: #1e2d3e;
+    text-decoration: none;
+    margin: 0 auto;
+}
